@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "queue": "cpp",
+    "stack": "cpp",
+    "ostream": "cpp",
+    "algorithm": "cpp",
+    "thread": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "random": "cpp",
+    "cstdlib": "cpp"
+  }
+}
